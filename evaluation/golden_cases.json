@@ -1,0 +1,24 @@
+[
+  {
+    "name": "mid-market software company should outrank large retailer",
+    "icp": {
+      "description": "B2B software and IT services companies with 30-200 employees and revenue between 5M and 50M",
+      "min_revenue": 5000000,
+      "max_revenue": 50000000,
+      "min_employees": 30,
+      "max_employees": 200
+    },
+    "preferred": {
+      "name": "SoftwareCo",
+      "revenue": 15000000,
+      "employees": 80,
+      "industries": ["Software and IT services"]
+    },
+    "other": {
+      "name": "RetailCo",
+      "revenue": 120000000,
+      "employees": 650,
+      "industries": ["Retail trade"]
+    }
+  }
+]
